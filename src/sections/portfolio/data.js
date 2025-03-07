@@ -9,7 +9,7 @@ const data = [
         image: Poskina,
         title: "Poskina (FULL STACK)",
         desc: "An e-commerce website built using python flask, React and MySQL.",
-        demo: 'https://poskina.com',
+        demo: 'https://poskina-frontend-3a8e.onrender.com/',
         github: 'https://github.com/Poskina/Backend'
     },
     {
